@@ -2,6 +2,10 @@
 
 namespace MPT.Parsers.Model
 {
+    /// <summary>
+    /// Basic unit stripped out of a string. 
+    /// Organized by a list of string units, and any child blocks that are determined by the presence of tags, such as parentheses hierarchies.
+    /// </summary>
     public class Block
     {
         private List<Block> _childBlocks = new List<Block>();

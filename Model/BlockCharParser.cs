@@ -3,6 +3,9 @@ using System.Linq;
 
 namespace MPT.Parsers.Model
 {
+    /// <summary>
+    /// Parses a string into block elements using delimiters represented by single characters.
+    /// </summary>
     public class BlockCharParser : IBlockParser
     {
         private bool _useDelimiter = false;
