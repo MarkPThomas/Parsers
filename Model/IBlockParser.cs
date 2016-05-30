@@ -1,15 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace MPT.Parsers.Model
 {
     /// <summary>
     /// Parses text into a list of text items, and child block hierarchies.
     /// Text items are based upon provided delimiters.
-    /// Blocks are based on and opening/closing tags.
+    /// Blocks are based on opening/closing tags.
     /// </summary>
     public interface IBlockParser
     {
