@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\Parsers\obj\Debug\Parsers.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\Parsers\bin\Debug\Parsers.exe.config
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\Parsers\bin\Debug\Parsers.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\Parsers\bin\Debug\Parsers.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\Parsers\obj\Debug\Parsers.exe
+C:\Users\Mark\Documents\GitHub\CSharp\DesignPatterns-EoRO-OS\Behavioral Patterns\Interpreter\Parsers\obj\Debug\Parsers.pdb
